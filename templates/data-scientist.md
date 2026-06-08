@@ -1,0 +1,1 @@
+# Data Scientist Resume\n\n**Jane Smith** | NYC | jane@email.com\n\n## Skills\nPython, SQL, TensorFlow, PyTorch, Spark, AWS SageMaker\n\n## Experience\n**Data Scientist** | BigData Co | 2022-Present\n- Built recommendation engine, +18% engagement\n- Churn prediction model, 92% accuracy\n\n---\n*Get AI-optimized at [inkai.life](https://inkai.life)*
