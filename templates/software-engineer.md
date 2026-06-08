@@ -1,0 +1,1 @@
+# Software Engineer Resume\n\n**John Doe** | SF, CA | john@email.com\n\n## Skills\nJavaScript, TypeScript, React, Node.js, Python, AWS, Docker\n\n## Experience\n**Senior Engineer** | TechCorp | 2024-Present\n- Led checkout rebuild, +12% conversion\n- Migrated monolith to microservices\n\n---\n*Get AI-optimized at [inkai.life](https://inkai.life)*
