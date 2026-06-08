@@ -1,0 +1,1 @@
+# General Resume Template\n\n**Your Name** | City | email@email.com\n\n## Skills\n[List your key skills]\n\n## Experience\n**Title** | Company | Date-Date\n- Achievement with measurable result\n\n---\n*Get AI-optimized at [inkai.life](https://inkai.life)*
